@@ -1,8 +1,8 @@
-# Aristides Zergiotis — Undergraduate Portfolio
+# Lukas Kuhzarani — Undergraduate Portfolio
 
 **Electrical Engineering | McGill University**
 
-I am a motivated Electrical Engineering graduate with a passion for space, photonics and digital electronic design. This portfolio demonstrates the most notable projects and extracurricular activities that I have been a part of during my undergraduate studies of Electrical Engineering at McGill University.
+I am a motivated Electrical Engineering graduate with a passion for space, photonics and digital electronic design. This portfolio demonstrates the work done on my capstone project.
 
 ---
 
@@ -16,6 +16,9 @@ An experimental and simulation-based capstone investigating Mach–Zehnder modul
 # Contact
 
 Lukas Kuhzarani
+
 lukas.kuhzarani@gmail.com
+
 +1 (613) 297-6625
+
 LinkedIn: https://www.linkedin.com/in/lukas-kuhzarani/
