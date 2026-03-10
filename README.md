@@ -8,7 +8,7 @@ I am a motivated Electrical Engineering graduate with a passion for space, photo
 
 ## Projects
 
-### 1. [Photonics Capstone — MZM Characterization & TFLN Waveguide Crossings](./capstone/README.md)
+### 1. [Photonics Capstone — MZM Characterization & TFLN Waveguide Crossings](./Capstone/README.md)
 An experimental and simulation-based capstone investigating Mach–Zehnder modulator characterization, IM/DD link performance, and TFLN waveguide crossing simulations using Lumerical. Covers key metrics including insertion loss, crosstalk, extinction ratio, and signal integrity across multiple data rates and fiber lengths.
 
 ---
