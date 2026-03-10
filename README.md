@@ -1,26 +1,15 @@
-# Lukas-Kuhzarani-Portfolio
-Portfolio of photonics, and electrical engineering projects by Lukas Kuhzarani.
+# Aristides Zergiotis — Undergraduate Portfolio
 
-Electrical Engineering (U4) – McGill University  
+**Electrical Engineering | McGill University**
 
-This repository contains a collection of my technical projects in:
-
-- Photonics and optical communications
-- Simulation and data analysis
+I am a motivated Electrical Engineering graduate with a passion for space, photonics and digital electronic design. This portfolio demonstrates the most notable projects and extracurricular activities that I have been a part of during my undergraduate studies of Electrical Engineering at McGill University.
 
 ---
 
-# Featured Projects
+## Projects
 
-## Optical Communications Capstone – TFLN IM/DD Link
-Design and analysis of a high-speed optical interconnect using thin-film lithium-niobate modulators.
-
-**Tools**
-- Lumerical
-- Python
-
-
-[View Project](./optical-communications-capstone)
+### 1. [Photonics Capstone — MZM Characterization & TFLN Waveguide Crossings](./projects/capstone/README.md)
+An experimental and simulation-based capstone investigating Mach–Zehnder modulator characterization, IM/DD link performance, and TFLN waveguide crossing simulations using Lumerical. Covers key metrics including insertion loss, crosstalk, extinction ratio, and signal integrity across multiple data rates and fiber lengths.
 
 ---
 
